@@ -1,1 +1,37 @@
-
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Human-computer interaction portfolio featuring research, design, and technical projects.">
+  <title>HCI Portfolio</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header wrap">
+    <a class="wordmark" href="#home" id="brand">Portfolio</a>
+    <nav aria-label="Main navigation"><a href="#work">Work</a><a href="#about">About</a><a href="#contact">Contact</a></nav>
+  </header>
+  <main id="home">
+    <section class="hero wrap">
+      <p class="eyebrow">Human-computer interaction · Research · Design</p>
+      <h1>Designing technology around <em>people.</em></h1>
+      <p class="intro">I'm <span id="display-name">Your Name</span>. I bring analytical and technical experience to human-centered questions, exploring how thoughtful design can make complex systems more useful, accessible, and meaningful.</p>
+      <div class="actions"><a class="button primary" href="#work">Explore projects ↗</a><a class="button secondary" href="#about">About me</a></div>
+    </section>
+    <section id="work" class="section wrap">
+      <div class="section-heading"><p class="eyebrow">Selected work</p><h2>Projects & case studies</h2><p>Replace these example project directions with your own work. Describe your process and contributions—not just the final deliverables.</p></div>
+      <div id="project-grid" class="project-grid"></div>
+    </section>
+    <section id="about" class="section about-panel wrap">
+      <p class="eyebrow">About</p><h2>From technical problem-solving to human-centered design</h2>
+      <p id="about-text">My background connects quantitative analysis, technology implementation, and an interest in how real people interact with complex systems. I'm interested in using HCI methods to investigate user needs, prototype ideas, and evaluate their impact.</p>
+      <a id="resume-link" class="text-link" href="assets/resume.pdf" hidden>View résumé (PDF) ↗</a>
+    </section>
+    <section id="contact" class="section wrap contact"><p class="eyebrow">Get in touch</p><h2>Let's connect.</h2><p>Interested in research, experience design, and technology that supports learning and everyday life.</p><div class="contact-links"><a id="email-link" href="#contact">Add email in config.js</a><a id="github-link" href="https://github.com/" target="_blank" rel="noopener noreferrer">GitHub ↗</a><a id="linkedin-link" href="#contact" hidden>LinkedIn ↗</a></div></section>
+  </main>
+  <footer class="wrap footer"><span id="footer-name">Portfolio</span><span>Built with HTML, CSS & GitHub Pages</span></footer>
+  <script src="config.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
