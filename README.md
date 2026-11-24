@@ -1,22 +1,31 @@
-# HCI portfolio website starter
+# Tiffany Chen — HCI Portfolio
 
-A small, accessible HTML/CSS/JavaScript portfolio for GitHub Pages.
+A lightweight HTML/CSS/JavaScript portfolio website featuring two collaborative human-centered design projects, research documentation, and a developing HCI research interest.
 
-## Quick start
+## Featured projects
 
-1. Create a public GitHub repository named `YOUR-USERNAME.github.io` (replace YOUR-USERNAME with your exact GitHub username).
-2. Unzip this package on your computer. Upload the **files inside** the unzipped folder to the root of the new repository using **Add file → Upload files**, then commit. The `index.html` file must be in the repo root.
-3. In the repository, go to **Settings → Pages → Build and deployment → Deploy from a branch → main → /(root) → Save**.
-4. Visit `https://YOUR-USERNAME.github.io/` after GitHub Pages publishes the site.
-5. Edit `config.js` on GitHub: replace `Your Name`, `YOUR-USERNAME`, and the example projects with your real information. Click **Commit changes**. GitHub Pages republishes your changes.
-6. Create a separate repository for each project using the `repository` names in `config.js`, OR change those `repository` names to match your actual project repositories.
-7. For a project image, upload a `.jpg`/`.png` to `assets/` and set its `image` field in `config.js` to `assets/your-image.jpg`.
-8. Optionally upload a public resume to `assets/resume.pdf` and set `resume: "assets/resume.pdf"`. Do not publish personal phone numbers or private information you don't want indexed.
+### [Lumo — Helping Mothers Be Heard in Healthcare](projects/lumo/README.md)
+Human-centered healthcare communication concept developed in a five-person team (2022), exploring language barriers, patient autonomy, and translating clinical conversations. Includes an [interactive Figma prototype](https://www.figma.com/proto/u36ZD4vPvIeuyycDGgbgHn/Prototype?node-id=103%3A41&scaling=scale-down&page-id=0%3A1&starting-point-node-id=103%3A41&show-proto-sidebar=1), [final team video](https://youtu.be/TUtkYGcVBCk), a [research/process summary](projects/lumo/design-process.md), and original class presentations.
 
-## Important
+### [Accessible Payment App Redesign](projects/payment-redesign/README.md)
+Collaborative usability research and proposed redesign of digital payment workflows (2022). Includes a [research/process summary](projects/payment-redesign/design-process.md) and the [final team presentation](Seminar%20in%20Human%20Factor%20Design/Final%20Redesign%20Presentation.pptx).
 
-- These three projects are **example placeholders**, not claims of completed projects. Replace them before sharing the website with admissions reviewers.
-- Do not upload client-confidential materials or sensitive data. Public sites and public repositories are accessible to everyone.
-- You do not need Node.js, a package manager, or a build step.
-- Your web hosting source is the **main branch at the root folder**.
-- You can preview locally by opening `index.html` in a browser.
+## Portfolio website
+
+- `index.html` — website structure
+- `styles.css` — design and layout
+- `script.js` — renders project cards and profile links
+- `config.js` — editable name, contact information, and project cards
+- `projects/` — individual case studies, summaries, and some project files
+
+To publish via GitHub Pages, use **Settings → Pages → Deploy from a branch → main → /(root)**. The expected project URL is `https://tchen3142.github.io/tiffanychen-hci-portfolio/` once publishing is enabled.
+
+## Working with the archive
+
+This repository already contained earlier team assets, including PowerPoints, storyboard material, and raw interviews. The newly curated case studies live in `projects/`. Some larger presentations are linked to their [original project repository](https://github.com/tchen3142/IEME4200FinalProject), because the connected transfer could not copy every binary file automatically.
+
+**Privacy & authorship:** Both projects were completed by teams. Team credits appear in each project README. Research notes include named interview participants and should be reviewed or redacted before sharing the repository as a public admissions portfolio. The case studies do not claim that these concepts were deployed or clinically validated.
+
+## Preservation
+
+An untouched backup of the destination repository is kept at [backup-before-hci-project-import-2026-11-24](https://github.com/tchen3142/tiffanychen-hci-portfolio/tree/backup-before-hci-project-import-2026-11-24). The [source project repository](https://github.com/tchen3142/IEME4200FinalProject) remains intact.
