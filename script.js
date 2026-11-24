@@ -20,6 +20,6 @@ p.projects.forEach(project => {
   const desc=document.createElement('p');desc.textContent=project.description;
   const tags=document.createElement('div');tags.className='tags';
   project.tags.forEach(t=>{let el=document.createElement('span');el.textContent=t;tags.appendChild(el);});
-  const link=document.createElement('a');link.className='text-link';link.textContent='View project repository ↗';link.href=`${gh}/${encodeURIComponent(project.repository)}`;
+  const link=document.createElement('a');link.className='text-link';link.textContent='View case study ↗';link.href=project.url || `${gh}/${encodeURIComponent(project.repository)}`;
   content.append(category,heading,desc,tags,link);article.append(image,content);grid.appendChild(article);
 });
