@@ -1,14 +1,14 @@
-// EDIT THIS FILE. No coding expertise needed: just replace text between quotation marks.
+// Portfolio content — selected team projects and research interests.
 const PORTFOLIO = {
   name: "Tiffany Chen",
-  githubUsername: "tc3142",
-  email: "tiffanychen1410@gmail.com", // Add your public contact email, or leave blank to hide it.
-  linkedin: "https://www.linkedin.com/in/tiffanychen8/", // Optional: complete https://www.linkedin.com/in/... URL
-  resume: "", // Optional: set to "assets/resume.pdf" AFTER uploading a shareable resume.
-  about: "My background connects quantitative analysis, software implementation, and an interest in how real people interact with complex systems. I'm interested in using HCI methods to investigate user needs, prototype ideas, and evaluate their impact.",
+  githubUsername: "tchen3142",
+  email: "tiffanychen1410@gmail.com",
+  linkedin: "https://www.linkedin.com/in/tiffanychen8/",
+  resume: "",
+  about: "I connect quantitative analysis and technical consulting with user research and interaction design. My projects explore accessible digital payments and communication in maternal healthcare, with a growing interest in technology-supported learning.",
   projects: [
-    { number: "01", category: "Exploration · Learning technology", title: "Ballet & Human-Centered Technology", description: "An emerging area of interest: how personalized feedback and accessible tools might support adult ballet learners. Add your own research, process, and findings when ready.", tags: ["HCI", "Learning", "Accessibility"], repository: "ballet-hci-exploration", image: "" },
-    { number: "02", category: "Process improvement · Systems", title: "Designing Better Workflows", description: "A case study placeholder for a problem you helped analyze and improve. Discuss user needs, constraints, and measurable outcomes without revealing confidential information.", tags: ["Workflow", "Research", "Evaluation"], repository: "workflow-case-study", image: "" },
-    { number: "03", category: "Technical systems · Integration", title: "Making Complex Systems Understandable", description: "A case study placeholder for systems integration, information architecture, or technical communication. Show how you reasoned about complex requirements.", tags: ["Systems", "Information design", "Analysis"], repository: "systems-case-study", image: "" }
+    { number: "01", category: "Human-centered design · Healthcare", title: "Lumo — Helping Mothers Be Heard", description: "A collaborative concept exploring language access, patient autonomy, and communication between non-English-speaking mothers and clinicians.", tags: ["User research", "Prototyping", "Healthcare"], url: "projects/lumo/README.md", image: "" },
+    { number: "02", category: "UX research · Financial technology", title: "Accessible Payment App Redesign", description: "A team project informed by interviews and usability observations of Venmo, Zelle, and Cash App, emphasizing trust, clarity, and error prevention.", tags: ["Usability", "Accessibility", "Interaction design"], url: "projects/payment-redesign/README.md", image: "" },
+    { number: "03", category: "Emerging research interest", title: "Ballet & Human-Centered Technology", description: "Exploring how technology could support personalized, accessible feedback for adult ballet learners. Research interest, not a completed case study.", tags: ["Movement", "Learning", "HCI"], url: "https://github.com/tchen3142", image: "" }
   ]
 };
