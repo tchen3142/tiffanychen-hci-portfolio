@@ -8,6 +8,16 @@
 
 **[Watch the final Lumo project video](https://youtu.be/TUtkYGcVBCk)**
 
+## My role & contributions — Tiffany Chen
+
+**My confirmed contributions: Storyboarding and video production.**
+
+I contributed to communicating the team's Lumo concept through storyboard development and production of the final project video. This work focused on presenting the experience of language barriers in maternal healthcare and explaining the proposed interaction in a visual narrative.
+
+The storyboards and video are collaborative deliverables; this description does not attribute the team's interviews, prototype design, or overall research findings solely to me.
+
+**Examples of the work:** [Storyboard presentation](../../Storyboard%21%21%21.pptx) · [Final team video](https://youtu.be/TUtkYGcVBCk)
+
 ## The challenge
 
 How might we reduce communication barriers for non-English-speaking mothers receiving prenatal and postpartum care in US hospitals, while supporting autonomy and preserving a personal relationship with clinicians?
@@ -88,4 +98,4 @@ The original archive includes `Process Documentation.pptx`, `Storyboard!!!.pptx`
 
 ## Credit
 
-This was a five-person team effort. Individual tasks and authorship have not yet been independently verified; please add specific personal contributions before presenting this as an individual portfolio case study.
+This was a five-person team project. Tiffany Chen's confirmed contributions were **storyboarding and video production**. Research, concept development, and prototyping are described as team activities unless individually attributed.
