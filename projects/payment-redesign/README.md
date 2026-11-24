@@ -53,6 +53,15 @@ The final presentation describes a plan for testing a high-fidelity prototype an
 
 [**View the final Payment App Redesign presentation**](../../Seminar%20in%20Human%20Factor%20Design/Final%20Redesign%20Presentation.pptx)
 
+## Supporting project documentation
+
+- [Final Redesign Presentation](../../Seminar%20in%20Human%20Factor%20Design/Final%20Redesign%20Presentation.pptx)
+- [Usability Test Plan](../../Seminar%20in%20Human%20Factor%20Design/Usability%20Test%20Plan%20%283-21-2022%29.docx)
+- [Redesign — Work in Progress](../../Seminar%20in%20Human%20Factor%20Design/Redesign%20-%20Work%20in%20Progress%20%284-4-2022%29.docx)
+- [Gantt Chart](../../Gantt%20Chart.xlsx)
+
+The original interview results document is preserved in the repository but should be reviewed for personally identifying information before promotion to an admissions portfolio.
+
 ## Source material
 
 The [final presentation](Final%20Redesign%20Presentation.pptx) is now available in this folder. Additional source material includes interview notes, a usability test plan, a work-in-progress design document, and a Gantt chart. Raw interview notes should not be made public without review and appropriate redaction.
