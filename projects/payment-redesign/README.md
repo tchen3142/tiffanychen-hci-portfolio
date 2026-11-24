@@ -4,6 +4,16 @@
 
 **Team:** Alexandrea Jee, Cindy Espinosa, Lord Crawford, Naina Durga, Tiffany Chen
 
+## My role & contributions — Tiffany Chen
+
+**My confirmed contributions: User interviews and usability testing.**
+
+I contributed to the team's user research by interviewing participants and observing how they interacted with contactless payment applications. This work helped document usability concerns encountered during account setup and payment tasks.
+
+The findings and proposed redesign below represent the **team's collective work**. I do not claim sole authorship of the interface designs, final recommendations, or any measured improvement.
+
+**Related artifacts:** [Usability Test Plan](../../Seminar%20in%20Human%20Factor%20Design/Usability%20Test%20Plan%20%283-21-2022%29.docx) · [Final team presentation](../../Seminar%20in%20Human%20Factor%20Design/Final%20Redesign%20Presentation.pptx)
+
 ## The challenge
 
 How might we reduce confusion, error anxiety, and navigation friction for older adults and people less familiar with contactless payment applications?
@@ -64,8 +74,8 @@ The original interview results document is preserved in the repository but shoul
 
 ## Source material
 
-The [final presentation](Final%20Redesign%20Presentation.pptx) is now available in this folder. Additional source material includes interview notes, a usability test plan, a work-in-progress design document, and a Gantt chart. Raw interview notes should not be made public without review and appropriate redaction.
+The [final presentation](../../Seminar%20in%20Human%20Factor%20Design/Final%20Redesign%20Presentation.pptx) is available in the project's existing course-materials folder. Additional source material includes interview notes, a usability test plan, a work-in-progress design document, and a Gantt chart. Raw interview notes should not be made public without review and appropriate redaction.
 
 ## Credit
 
-This was a five-person collaborative project. Add a verified description of your particular role and work before using it as an individual case study.
+This was a five-person collaborative project. Tiffany Chen's confirmed contributions were **user interviews and usability testing**. The research synthesis, prototypes, and design recommendations are attributed to the team unless otherwise documented.
