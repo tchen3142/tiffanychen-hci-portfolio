@@ -73,6 +73,15 @@ Four class presentations are included in this project's [presentations/](present
 
 The [final project video is available on YouTube](https://youtu.be/TUtkYGcVBCk). Earlier process documentation and storyboard deliverables have not been uploaded to this repository.
 
+## Supporting source documents in this portfolio
+
+- [Original team Process Documentation](../../Process%20Documentation.pptx)
+- [Storyboard presentation](../../Storyboard%21%21%21.pptx)
+- [Stakeholder Assessment for Potential Solutions](../../Stakeholder%20Assessment%20for%20Potential%20Solutions.xlsx)
+- [Final Lumo video](https://youtu.be/TUtkYGcVBCk)
+
+These artifacts are group work. Individual research interviews are not featured as portfolio evidence without privacy review.
+
 ## Source material
 
 The original archive includes `Process Documentation.pptx`, `Storyboard!!!.pptx`, storyboard notes, a stakeholder assessment spreadsheet, and a final video (linked above). Some earlier presentations are now available in the presentation archive above. Other original assets are still pending review and upload. The separate class-wide question document includes other teams' content and should not be posted as Lumo-only research.
