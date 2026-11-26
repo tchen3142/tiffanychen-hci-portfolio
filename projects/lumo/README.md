@@ -18,6 +18,18 @@ The storyboards and video are collaborative deliverables; this description does 
 
 **Examples of the work:** [Storyboard presentation](Storyboards/Storyboard%21%21%21.pptx) · [Final team video](https://youtu.be/TUtkYGcVBCk)
 
+## Storyboard evidence: communicating the patient experience
+
+![Visual reconstruction of the Lumo storyboard narrative: isolation, language barrier, then supported conversation and bookmarking](assets/storyboard-narrative.svg)
+
+*Visual summary reconstructed from the team's original 2022 storyboard presentation (slides 2–12); this is not an original storyboard frame.*
+
+**My contribution — storyboarding and video production:** I worked on the storyboard and final video that communicated the patient experience through a narrative of darkness, confusion, and ultimately greater visibility. The storyboard materials use a recurring **“in the dark → into the light”** motif: scenes begin with a mother struggling to understand clinical conversations, then introduce Lumo's translated transcript and bookmarking features.
+
+The visual narrative helped *communicate the proposed problem and solution*. It does **not** establish that patients using Lumo experienced improved health outcomes.
+
+**Original evidence:** [Storyboard slides](Storyboards/Storyboard%21%21%21.pptx) · [Storyboard notes](Storyboards/Storyboard%20Notes_.docx) · [Final team video](https://youtu.be/TUtkYGcVBCk)
+
 ## The challenge
 
 How might we reduce communication barriers for non-English-speaking mothers receiving prenatal and postpartum care in US hospitals, while supporting autonomy and preserving a personal relationship with clinicians?
