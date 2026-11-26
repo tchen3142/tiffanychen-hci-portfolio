@@ -82,6 +82,19 @@ The final presentation describes a plan for testing a high-fidelity prototype an
 
 [**View the final Payment App Redesign presentation**](../../Seminar%20in%20Human%20Factor%20Design/Final%20Redesign%20Presentation.pptx)
 
+## Selected original research and prototype slides
+
+These original slides come from the team's [Final Redesign Presentation](../../Seminar%20in%20Human%20Factor%20Design/Final%20Redesign%20Presentation.pptx). They connect my verified contribution—user interviews and usability testing—to the broader team's design work.
+
+| Slide | Evidence | Interpretation |
+| --- | --- | --- |
+| 4 — Venmo interview summary | Reported difficulty finding the pay button, unclear payment sources, and sign-up friction | Interview insights reveal opportunities for clearer navigation and payment information |
+| 10 — Existing vs. redesigned flow | Two flows mapped side by side | The team explored changes to payment steps and safeguards |
+| 13 — Home/search prototype | Home and contact-search screen concepts | The team's proposed interface makes payment entry points and recent transactions easier to see |
+| 15 — Confirmation/success prototype | Confirmation and success-screen concepts | The team's proposed flow includes review and completion feedback |
+
+**My role:** User interviews and usability testing. The interface screens are **team artifacts**, not designs attributed solely to me. These slides do not show a validated improvement in usability or transaction success.
+
 ## Supporting project documentation
 
 - [Final Redesign Presentation](../../Seminar%20in%20Human%20Factor%20Design/Final%20Redesign%20Presentation.pptx)
