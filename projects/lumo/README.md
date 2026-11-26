@@ -16,7 +16,7 @@ I contributed to communicating the team's Lumo concept through storyboard develo
 
 The storyboards and video are collaborative deliverables; this description does not attribute the team's interviews, prototype design, or overall research findings solely to me.
 
-**Examples of the work:** [Storyboard presentation](../../Storyboard%21%21%21.pptx) · [Final team video](https://youtu.be/TUtkYGcVBCk)
+**Examples of the work:** [Storyboard presentation](Storyboards/Storyboard%21%21%21.pptx) · [Final team video](https://youtu.be/TUtkYGcVBCk)
 
 ## The challenge
 
@@ -69,32 +69,46 @@ User research, stakeholder consideration, alternate concept generation, prototyp
 
 **This was a proposed course prototype, not a medical product.** Further work would require study of translation accuracy, clinical safeguards, interpreter access, privacy, recording consent, and deployment conditions. Interviews and concept feedback should not be confused with a real-world clinical effectiveness study.
 
+## Project files — organized by stage
+
+| Folder | Contents |
+| --- | --- |
+| [Recordings](Recordings/) | 20 voice recordings and audio files used in production |
+| [Interviews Conducted](Interviews%20Conducted/) | 15 interview, interview-preparation, and prototype-feedback documents |
+| [Prototypes](Prototypes/) | Three Prototypes and Prototype Story presentations |
+| [Storyboards](Storyboards/) | Storyboard presentation, scripts, and working notes |
+| [Research and Planning](Research%20and%20Planning/) | Process documentation and stakeholder assessment |
+| [Meetings and Planning](Meetings%20and%20Planning/) | Four team meeting notes |
+| [Presentations](presentations/) | Early territory/problem and idea presentation files; additional presentations linked below |
+
+**Research privacy note:** Some original interview files identify participants. These are archived team materials, not anonymized public research reports. Review consent and redact identifying information before sharing them with external reviewers.
+
 ## Presentation archive
 
-Four class presentations are included in this project's [presentations/](presentations/) folder. Three additional presentations remain linked from the original repository because automated transfer of those larger files was unavailable. They document early problem framing, idea exploration, evaluation, and prototyping:
+Two early-stage class presentations are in [presentations/](presentations/), two prototype presentations are in [Prototypes/](Prototypes/), and three larger presentations remain linked to the original repository. Together they document problem framing, idea exploration, evaluation, and prototyping:
 
 - [Territory and Problem Presentation](presentations/S2T4%20Territory%20and%20Problem%20Presentation.pptx)
 - [Ideas & Competition (original repository)](https://github.com/tchen3142/IEME4200FinalProject/blob/main/projects/lumo/presentations/S2T4%20Ideas%20%26%20Competition.pptx)
 - [Copy of Ideas & Competition](presentations/Copy%20of%20S2T4%20Ideas%20%26%20Competition.pptx)
 - [Evaluation & Choice (original repository)](https://github.com/tchen3142/IEME4200FinalProject/blob/main/projects/lumo/presentations/S2T4_%20Evaluation%20%26%20Choice_.pptx)
 - [Evaluation and Choice — Iteration 2 (original repository)](https://github.com/tchen3142/IEME4200FinalProject/blob/main/projects/lumo/presentations/Evaluation%20and%20Choice%20Iteration%202_.pptx)
-- [Three Prototypes](presentations/Three%20Prototypes.pptx)
-- [Prototype Story](presentations/Prototype%20Story.pptx)
+- [Three Prototypes](Prototypes/Three%20Prototypes.pptx)
+- [Prototype Story](Prototypes/Prototype%20Story.pptx)
 
-The [final project video is available on YouTube](https://youtu.be/TUtkYGcVBCk). Earlier process documentation and storyboard deliverables have not been uploaded to this repository.
+The [final project video is available on YouTube](https://youtu.be/TUtkYGcVBCk). Process documentation, storyboards, interview records, and audio production recordings are organized in the folders below.
 
 ## Supporting source documents in this portfolio
 
-- [Original team Process Documentation](../../Process%20Documentation.pptx)
-- [Storyboard presentation](../../Storyboard%21%21%21.pptx)
-- [Stakeholder Assessment for Potential Solutions](../../Stakeholder%20Assessment%20for%20Potential%20Solutions.xlsx)
+- [Original team Process Documentation](Research%20and%20Planning/Process%20Documentation.pptx)
+- [Storyboard presentation](Storyboards/Storyboard%21%21%21.pptx)
+- [Stakeholder Assessment for Potential Solutions](Research%20and%20Planning/Stakeholder%20Assessment%20for%20Potential%20Solutions.xlsx)
 - [Final Lumo video](https://youtu.be/TUtkYGcVBCk)
 
 These artifacts are group work. Individual research interviews are not featured as portfolio evidence without privacy review.
 
 ## Source material
 
-The original archive includes `Process Documentation.pptx`, `Storyboard!!!.pptx`, storyboard notes, a stakeholder assessment spreadsheet, and a final video (linked above). Some earlier presentations are now available in the presentation archive above. Other original assets are still pending review and upload. The separate class-wide question document includes other teams' content and should not be posted as Lumo-only research.
+The original archive includes process documentation, storyboards, stakeholder assessment, prototype iterations, interviews, and audio recordings, organized into the folders above. The final video is linked above. The separate class-wide question document includes other teams' content and is not presented as Lumo-only research.
 
 ## Credit
 
