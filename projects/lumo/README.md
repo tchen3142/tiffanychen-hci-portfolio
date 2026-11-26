@@ -95,6 +95,19 @@ User research, stakeholder consideration, alternate concept generation, prototyp
 
 **Research privacy note:** Some original interview files identify participants. These are archived team materials, not anonymized public research reports. Review consent and redact identifying information before sharing them with external reviewers.
 
+## Selected original storyboard slides
+
+The image exports for these four original slides are available in the accompanying curated image package. These slide references are drawn from the team's [Storyboard presentation](Storyboards/Storyboard%21%21%21.pptx), not from newly invented designs.
+
+| Slide | What it shows | Contribution-focused caption |
+| --- | --- | --- |
+| 2 — Opening scene | An intentionally dark scene with a subtitle placeholder | Establishing the audience's experience of not understanding a conversation |
+| 3 — Animation 1 | A small, isolated character in a dark setting | Using scale and isolation to communicate anxiety and loss of voice |
+| 7 — Animation 5 | Written direction for a transition from darkness to brightness | Turning the story toward an empathetic, more understandable experience |
+| 11 — Animation 9 | Planned interaction showing transcript bookmarking | Connecting the narrative to the concept's ability to revisit important information |
+
+**My role:** Storyboarding and video production. These are original team storyboard slides; the finished experience is illustrated in the [final team video](https://youtu.be/TUtkYGcVBCk). The captions describe storytelling intent, not validated patient outcomes.
+
 ## Presentation archive
 
 Two early-stage class presentations are in [presentations/](presentations/), two prototype presentations are in [Prototypes/](Prototypes/), and three larger presentations remain linked to the original repository. Together they document problem framing, idea exploration, evaluation, and prototyping:
