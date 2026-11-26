@@ -22,7 +22,7 @@ To publish via GitHub Pages, use **Settings → Pages → Deploy from a branch �
 
 ## Working with the archive
 
-This repository already contained earlier team assets, including PowerPoints, storyboard material, and raw interviews. The newly curated case studies live in `projects/`. Some larger presentations are linked to their [original project repository](https://github.com/tchen3142/IEME4200FinalProject), because the connected transfer could not copy every binary file automatically.
+Lumo's original team assets are now organized in `projects/lumo/` under **Recordings**, **Interviews Conducted**, **Prototypes**, **Storyboards**, **Research and Planning**, **Meetings and Planning**, and **presentations**. The two curated case studies live under `projects/`. Some larger presentations are linked to their [original project repository](https://github.com/tchen3142/IEME4200FinalProject), because the connected transfer could not copy every binary file automatically.
 
 **Privacy & authorship:** Both projects were completed by teams. Team credits appear in each project README. Research notes include named interview participants and should be reviewed or redacted before sharing the repository as a public admissions portfolio. The case studies do not claim that these concepts were deployed or clinically validated.
 
