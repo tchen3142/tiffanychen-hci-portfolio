@@ -14,6 +14,25 @@ The findings and proposed redesign below represent the **team's collective work*
 
 **Related artifacts:** [Usability Test Plan](../../Seminar%20in%20Human%20Factor%20Design/Usability%20Test%20Plan%20%283-21-2022%29.docx) · [Final team presentation](../../Seminar%20in%20Human%20Factor%20Design/Final%20Redesign%20Presentation.pptx)
 
+## Research evidence: observations and design implications
+
+![Anonymized research insights mapped to payment redesign opportunities](assets/research-to-design.svg)
+
+*Synthesized from the team's 2022 payment-app presentation (slides 4–10 and 13–15); not an individual participant's transcript.*
+
+**My contribution — user interviews and usability testing:** I participated in interviewing users and observing payment-app interactions. The team documented recurring navigation confusion, unclear payment sources, and concerns about accidental transfers. These observations pointed toward clearer primary actions, funding-source visibility, and explicit transaction review as design opportunities.
+
+| Observed usability issue | Design consideration |
+| --- | --- |
+| Difficulty finding the pay action | Give payment a clear, prominent entry point |
+| Uncertainty about payment source | Display the selected source before sending |
+| Anxiety about sending money to the wrong person | Show recipient and amount for review |
+| Sign-up and verification friction | Make onboarding status and next steps easier to understand |
+
+**Evidence:** [Final team presentation](../../Seminar%20in%20Human%20Factor%20Design/Final%20Redesign%20Presentation.pptx) · [Usability test plan](../../Seminar%20in%20Human%20Factor%20Design/Usability%20Test%20Plan%20%283-21-2022%29.docx)
+
+**Scope of claim:** These were interview and usability observations informing a *proposed* redesign, not measured post-redesign improvements. We are not publishing identifiable interview excerpts in this case study.
+
 ## The challenge
 
 How might we reduce confusion, error anxiety, and navigation friction for older adults and people less familiar with contactless payment applications?
