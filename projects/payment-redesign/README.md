@@ -82,18 +82,35 @@ The final presentation describes a plan for testing a high-fidelity prototype an
 
 [**View the final Payment App Redesign presentation**](../../Seminar%20in%20Human%20Factor%20Design/Final%20Redesign%20Presentation.pptx)
 
-## Selected original research and prototype slides
+## Original research and prototype evidence
 
-These original slides come from the team's [Final Redesign Presentation](../../Seminar%20in%20Human%20Factor%20Design/Final%20Redesign%20Presentation.pptx). They connect my verified contribution—user interviews and usability testing—to the broader team's design work.
+These four images are slides from the team's [Final Redesign Presentation](../../Seminar%20in%20Human%20Factor%20Design/Final%20Redesign%20Presentation.pptx), displayed here so reviewers can inspect the original work without downloading the presentation.
 
-| Slide | Evidence | Interpretation |
-| --- | --- | --- |
-| 4 — Venmo interview summary | Reported difficulty finding the pay button, unclear payment sources, and sign-up friction | Interview insights reveal opportunities for clearer navigation and payment information |
-| 10 — Existing vs. redesigned flow | Two flows mapped side by side | The team explored changes to payment steps and safeguards |
-| 13 — Home/search prototype | Home and contact-search screen concepts | The team's proposed interface makes payment entry points and recent transactions easier to see |
-| 15 — Confirmation/success prototype | Confirmation and success-screen concepts | The team's proposed flow includes review and completion feedback |
+### 1. Interview findings — understanding usability barriers
 
-**My role:** User interviews and usability testing. The interface screens are **team artifacts**, not designs attributed solely to me. These slides do not show a validated improvement in usability or transaction success.
+![Original presentation slide summarizing Venmo user interview findings](assets/01-interview-findings.jpg)
+
+*Slide 4 · The team's interview summary documents challenges including payment-action discoverability, uncertainty about funding sources, and friction in registration. My confirmed contribution was conducting user interviews and usability testing. This is a team research summary, not a claim of sole authorship.*
+
+### 2. Existing versus proposed payment flow
+
+![Original presentation slide comparing existing and proposed payment workflows](assets/02-current-vs-proposed-flow.jpg)
+
+*Slide 10 · The team explored how a revised interaction flow might address problems uncovered during research. This comparison illustrates a proposed design direction, not a measured usability improvement.*
+
+### 3. Home and search prototype
+
+![Original presentation slide showing the proposed home and search screens](assets/03-prototype-home-search.jpg)
+
+*Slide 13 · Team prototype concepts explore how people might locate contacts and payment actions more easily. These screens are collaborative design work, not individually attributed to my role.*
+
+### 4. Payment confirmation and completion
+
+![Original presentation slide showing confirmation and success interface concepts](assets/04-prototype-confirmation.jpg)
+
+*Slide 15 · The team's proposed confirmation and completion screens respond to concerns about transaction certainty. Their effectiveness was not established through a reported post-redesign evaluation.*
+
+**My role:** User interviews and usability testing. The screenshots show how the team's research findings relate to subsequent design exploration, while preserving credit for collaborative design and avoiding unverified outcome claims.
 
 ## Supporting project documentation
 
