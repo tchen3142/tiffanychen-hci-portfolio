@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 760" role="img" aria-labelledby="title desc">
+<title id="title">Venmo interview summary, clean presentation of original research findings</title>
+<desc id="desc">Faithful text recreation of the team's Venmo interview summary slide. The Venmo logo is moved outside the title text.</desc>
+<rect width="1280" height="760" fill="#fafafa"/>
+<g font-family="Arial,Helvetica,sans-serif" fill="#444">
+<text x="57" y="95" font-size="53" font-weight="400">Summarize User Interviews</text>
+<path d="M58 131 h80" stroke="#444" stroke-width="3" stroke-dasharray="22 12"/>
+<text x="58" y="180" font-size="33">Venmo</text>
+<rect x="193" y="146" width="40" height="40" rx="5" fill="#1597f7"/>
+<text x="203" y="179" font-size="30" fill="#fff" font-weight="bold" font-style="italic">V</text>
+<text x="74" y="230" font-size="29">●  Positives</text>
+<text x="127" y="269" font-size="25">○  Payee Verification (Last 4 Digits of Phone Number)</text>
+<text x="74" y="318" font-size="29">●  Negatives</text>
+<text x="127" y="356" font-size="25">○  Major Pain Points</text>
+<text x="185" y="393" font-size="24">■  User Interface not Intuitive</text>
+<text x="238" y="430" font-size="23">●  Pay Button</text>
+<text x="238" y="466" font-size="23">●  Social Media Aspect (Distracting stickers)</text>
+<text x="185" y="503" font-size="24">■  Registration Process</text>
+<text x="238" y="540" font-size="23">●  Too Many Steps</text>
+<text x="127" y="579" font-size="24">○  Concerns about Security</text>
+<text x="127" y="612" font-size="24">○  International Users Obstacles</text>
+<text x="127" y="645" font-size="24">○  Payment Source Unclear</text>
+<text x="127" y="678" font-size="24">○  Buttons too small/unclear</text>
+<text x="127" y="711" font-size="24">○  Lack of confirmation screen to show payment went through</text>
+<text x="127" y="744" font-size="24">○  One participant couldn’t complete a successful payment</text>
+</g>
+</svg>
