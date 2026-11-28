@@ -95,18 +95,37 @@ User research, stakeholder consideration, alternate concept generation, prototyp
 
 **Research privacy note:** Some original interview files identify participants. These are archived team materials, not anonymized public research reports. Review consent and redact identifying information before sharing them with external reviewers.
 
-## Selected original storyboard slides
+## Original storyboard and final-video evidence
 
-The image exports for these four original slides are available in the accompanying curated image package. These slide references are drawn from the team's [Storyboard presentation](Storyboards/Storyboard%21%21%21.pptx), not from newly invented designs.
+The following are **original project visuals**, not AI-generated illustrations. The first two come from the team's storyboard presentation, while the final two are frames extracted from the team's finished [Lumo video](https://youtu.be/TUtkYGcVBCk).
 
-| Slide | What it shows | Contribution-focused caption |
-| --- | --- | --- |
-| 2 — Opening scene | An intentionally dark scene with a subtitle placeholder | Establishing the audience's experience of not understanding a conversation |
-| 3 — Animation 1 | A small, isolated character in a dark setting | Using scale and isolation to communicate anxiety and loss of voice |
-| 7 — Animation 5 | Written direction for a transition from darkness to brightness | Turning the story toward an empathetic, more understandable experience |
-| 11 — Animation 9 | Planned interaction showing transcript bookmarking | Connecting the narrative to the concept's ability to revisit important information |
+### 1. Opening scene — experiencing a language barrier
 
-**My role:** Storyboarding and video production. These are original team storyboard slides; the finished experience is illustrated in the [final team video](https://youtu.be/TUtkYGcVBCk). The captions describe storytelling intent, not validated patient outcomes.
+![Original Lumo storyboard: opening scene](assets/01-opening-language-barrier.jpg)
+
+*Storyboard opening: the scene introduces the uncertainty of hearing a conversation without understanding it.*
+
+### 2. Isolation — conveying the emotional impact
+
+![Original Lumo storyboard: isolated character](assets/02-isolation-storyboard.jpg)
+
+*The storyboard uses a small isolated character and dark surroundings to communicate fear and loss of voice.*
+
+### 3. From darkness to light — the narrative transition
+
+![Frames from Lumo final video showing the transition toward a brighter healthcare interaction](assets/03-darkness-to-light-VIDEO-STILLS.jpg)
+
+*Frames from the completed team video illustrate the emotional transition proposed in storyboard Animation 5. These are video stills, not illustrations embedded in the original text-only slide.*
+
+### 4. Bookmarking — communicating the proposed interaction
+
+![Frame from Lumo final video showing the transcript bookmarking concept](assets/04-bookmarking-concept-VIDEO-STILL.jpg)
+
+*Frame from the completed team video illustrating the proposed transcript-bookmarking feature described in storyboard Animation 9. This is concept footage, not evidence of a deployed medical system.*
+
+**My contribution:** Storyboarding and video production. These images show the team's collaborative deliverables and the narrative communication work I contributed to; they do not imply sole authorship of the prototype design or clinical validation.
+
+**Original material:** [Storyboard presentation](Storyboards/Storyboard%21%21%21.pptx) · [Storyboard notes](Storyboards/Storyboard%20Notes_.docx) · [Final team video](https://youtu.be/TUtkYGcVBCk)
 
 ## Presentation archive
 
