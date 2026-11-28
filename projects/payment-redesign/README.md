@@ -1,124 +1,82 @@
 # Payment App Redesign — Making Digital Payments More Accessible
 
-**User-centered design concept · 2022 · Team project**
-
+**2022 · User-centered design concept · Collaborative team project**  
+**My role:** User interviews and usability testing  
 **Team:** Alexandrea Jee, Cindy Espinosa, Lord Crawford, Naina Durga, Tiffany Chen
 
-## My role & contributions — Tiffany Chen
+[View the final team presentation](../../Seminar%20in%20Human%20Factor%20Design/Final%20Redesign%20Presentation.pptx) · [Read the team design-process summary](design-process.md)
 
-**My confirmed contributions: User interviews and usability testing.**
+## Project overview
 
-I contributed to the team's user research by interviewing participants and observing how they interacted with contactless payment applications. This work helped document usability concerns encountered during account setup and payment tasks.
+**The challenge:** How might we make contactless payment apps easier to navigate and more reassuring for older or less experienced users?
 
-The findings and proposed redesign below represent the **team's collective work**. I do not claim sole authorship of the interface designs, final recommendations, or any measured improvement.
+The team examined experiences with **Venmo, Zelle, and Cash App** and proposed a simpler payment flow. Research highlighted uncertainty about funding sources, difficulty locating the Pay action, registration friction, and concern about accidental payments.
 
-**Related artifacts:** [Usability Test Plan](../../Seminar%20in%20Human%20Factor%20Design/Usability%20Test%20Plan%20%283-21-2022%29.docx) · [Final team presentation](../../Seminar%20in%20Human%20Factor%20Design/Final%20Redesign%20Presentation.pptx)
+## My role and contributions
 
-## From user interviews to design opportunities
+**I conducted user interviews and usability testing**, gathering observations about how people navigated contactless-payment tasks and where confusion or hesitation occurred.
 
-My contribution focused on **user interviews and usability testing**. Through participant conversations and observations of contactless-payment tasks, I helped document where users experienced confusion or hesitation. The team's findings informed the design opportunities explored below.
+This contribution supported the team's understanding of user needs. The synthesis and interface prototypes shown below are **team artifacts**, not individual designs I claim to have created.
 
-### Research evidence — Venmo interview findings
+## Design process
 
-![Clean recreation of the team's Venmo interview summary slide, with the logo no longer obscuring the title](assets/01-interview-findings-clean.svg)
+1. **Research — my contribution.** Interview users and observe interactions with existing payment applications.
+2. **Synthesize — team work.** Compare usability issues across applications and identify opportunities to reduce confusion.
+3. **Explore alternatives — team work.** Map existing and proposed flows, and develop screens emphasizing clearer navigation and transaction review.
+4. **Plan evaluation — team work.** Define scenarios for follow-up prototype testing. The materials do not establish completion of post-redesign validation.
 
-*Readable recreation of slide 4 in the [original team presentation](../../Seminar%20in%20Human%20Factor%20Design/Final%20Redesign%20Presentation.pptx). The text reflects the original slide, but the layout and logo placement have been corrected for legibility. It is not an unmodified original screenshot.*
+[Read the detailed team design-process summary](design-process.md)
 
-The team identified several usability concerns: difficulty locating the **Pay** action, distracting social features, too many registration steps, unclear payment sources, security concerns, and missing transaction confirmation. The same slide also notes an existing positive feature: verifying a payee using the last four digits of a phone number.
+## Visual evidence
 
-### Translating findings into design considerations
+### 01 · Interview findings
+
+![Clean text-faithful recreation of original Venmo interview findings with unobstructed heading](assets/01-interview-findings-clean.svg)
+
+*Readable recreation of slide 4 in the team's [original presentation](../../Seminar%20in%20Human%20Factor%20Design/Final%20Redesign%20Presentation.pptx). The Venmo logo has been repositioned to avoid covering the heading; this is **not an unmodified screenshot**.*
+
+The interview summary includes a useful existing safeguard—last-four-digit payee verification—alongside problems such as an unclear Pay action, distracting social features, complex registration, payment-source ambiguity, and missing confirmation.
+
+### 02 · Connecting observations to design opportunities
 
 | Research observation | Design opportunity |
 | --- | --- |
-| Users struggled to find the Pay action | Make the primary payment path easier to discover |
-| Users were unsure which balance or account would be charged | Show the selected funding source at the point of payment |
-| Users worried about errors and payment completion | Offer a clear review step and completion feedback |
-| Registration and verification presented obstacles | Make required steps and account status easier to understand |
+| Difficulty locating the Pay button | Make the primary action easier to find |
+| Uncertainty about payment source | Expose the selected funding account before sending |
+| Anxiety about sending money incorrectly | Add a clear recipient-and-amount review |
+| Registration and verification barriers | Clarify required steps and status |
 
-These are **design opportunities**, not claims that the proposed changes were tested successfully or delivered measurable improvements.
+These are opportunities inferred from the team's findings, **not proven usability improvements**.
 
-### Team design exploration
+### 03 · Existing vs. proposed flow
 
-**Existing versus proposed flow**
+![Original team slide comparing the existing and proposed payment flow](assets/02-current-vs-proposed-flow.jpg)
 
-![Original team slide comparing the current and proposed payment flow](assets/02-current-vs-proposed-flow.jpg)
+*The team explored revisions to the steps and safeguards in the payment process.*
 
-*The team explored alternate steps and checks in the payment process. This represents collaborative design work.*
+### 04 · Home and search concepts
 
-**Home and contact search**
+![Original team prototype slide showing home and contact search](assets/03-prototype-home-search.jpg)
 
-![Original team prototype slide showing home and search concepts](assets/03-prototype-home-search.jpg)
+*Collaborative interface concepts exploring discoverability and contact selection.*
 
-*Concept screens explore payment-action visibility and contact discovery; they are not attributed to my individual design work.*
+### 05 · Confirmation and completion
 
-**Confirmation and completion**
+![Original team prototype slide showing confirmation and success screens](assets/04-prototype-confirmation.jpg)
 
-![Original team prototype slide showing payment confirmation and success concepts](assets/04-prototype-confirmation.jpg)
+*Collaborative interface concepts that aim to improve payment certainty, without evidence here of a measured improvement.*
 
-*The proposed confirmation and success screens illustrate how the team sought to address uncertainty when sending money.*
+## Outcome and limitations
 
-**Attribution and limitations:** My confirmed contributions were user interviews and usability testing. The research synthesis, flow revisions, and prototype screens are credited to the broader team. The presentation describes proposed future validation, but does not establish improved task-completion rates or other post-redesign outcomes.
+The team proposed a revised experience with clearer payment entry points, recipient details, amount review, and confirmation feedback. **The available materials describe further usability testing as planned**, so this case study does not claim improved completion rates or validated outcomes.
 
-## The challenge
-
-How might we reduce confusion, error anxiety, and navigation friction for older adults and people less familiar with contactless payment applications?
-
-The project investigated existing experiences in **Venmo, Zelle, and Cash App** before proposing a simpler payment flow.
-
-## Research context
-
-The team documented interview feedback and usability observations. Concerns appearing across the research included:
-- Difficulty finding the pay action
-- Uncertainty about the funding source
-- Risk of paying the wrong person or sending the wrong amount
-- Distracting social content and unnecessary controls
-- Friction in sign-up and bank verification, especially for users outside the US
-- Insufficient transaction confirmation
-
-The research also recognized benefits in existing services, such as Zelle's bank integration and Venmo's payee verification.
-
-## Proposed experience
-
-The team mapped an existing payment flow and explored a redesigned one with:
-1. **Home screen:** Search people, scan a QR code, see recent payments
-2. **Recipient details:** Review identifying information and transaction history
-3. **Payment screen:** Enter an amount with clearer controls
-4. **Confirmation:** Check recipient and amount before sending
-5. **Success screen:** View completed payment feedback and return home
-
-The direction was intended to simplify the flow while adding visibility and safeguards.
-
-## Design methods
-
-- Competitor comparison and interview synthesis
-- Usability observations and task-flow analysis
-- Brainstorming and low-fidelity screen sketches
-- Discussion of user-centered design and ISO considerations
-- Planned prototype walkthroughs with think-aloud testing
-
-[**Read the curated design-process summary →**](design-process.md)
-
-## Evaluation status
-
-The final presentation describes a plan for testing a high-fidelity prototype and future iterative design. **It does not establish that this later validation was completed.** No improvement percentages or measured success rates are claimed here.
-
-## Presentation
-
-[**View the final Payment App Redesign presentation**](../../Seminar%20in%20Human%20Factor%20Design/Final%20Redesign%20Presentation.pptx)
-
-## Supporting project documentation
+## Project archive
 
 - [Final Redesign Presentation](../../Seminar%20in%20Human%20Factor%20Design/Final%20Redesign%20Presentation.pptx)
 - [Usability Test Plan](../../Seminar%20in%20Human%20Factor%20Design/Usability%20Test%20Plan%20%283-21-2022%29.docx)
 - [Redesign — Work in Progress](../../Seminar%20in%20Human%20Factor%20Design/Redesign%20-%20Work%20in%20Progress%20%284-4-2022%29.docx)
 - [Gantt Chart](../../Gantt%20Chart.xlsx)
 
-The original interview results document is preserved in the repository but should be reviewed for personally identifying information before promotion to an admissions portfolio.
+**Privacy and attribution:** Raw interview notes in the repository may identify participants. The above summary uses non-identifying observations; review consent before sharing original interview records.
 
-## Source material
-
-The [final presentation](../../Seminar%20in%20Human%20Factor%20Design/Final%20Redesign%20Presentation.pptx) is available in the project's existing course-materials folder. Additional source material includes interview notes, a usability test plan, a work-in-progress design document, and a Gantt chart. Raw interview notes should not be made public without review and appropriate redaction.
-
-## Credit
-
-This was a five-person collaborative project. Tiffany Chen's confirmed contributions were **user interviews and usability testing**. The research synthesis, prototypes, and design recommendations are attributed to the team unless otherwise documented.
+**Team credit:** Alexandrea Jee, Cindy Espinosa, Lord Crawford, Naina Durga, Tiffany Chen. Tiffany's confirmed contributions: **user interviews and usability testing**.
