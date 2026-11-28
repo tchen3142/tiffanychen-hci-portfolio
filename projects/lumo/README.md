@@ -1,159 +1,80 @@
 # Lumo — Helping Mothers Be Heard in Healthcare
 
-**Human-centered design concept · 2022 · Team project**
-
+**2022 · Human-centered design concept · Collaborative team project**  
+**My role:** Storyboarding and video production  
 **Team:** Maya Joseph, Brygitte De La Cruz, Tiffany Chen, Katherine Ju, Yicheng (Rico) Li
 
-[**Explore the original interactive Figma prototype**](https://www.figma.com/proto/u36ZD4vPvIeuyycDGgbgHn/Prototype?node-id=103%3A41&scaling=scale-down&page-id=0%3A1&starting-point-node-id=103%3A41&show-proto-sidebar=1)
+[Watch the final team video](https://youtu.be/TUtkYGcVBCk) · [Explore the interactive Figma prototype](https://www.figma.com/proto/u36ZD4vPvIeuyycDGgbgHn/Prototype?node-id=103%3A41&scaling=scale-down&page-id=0%3A1&starting-point-node-id=103%3A41&show-proto-sidebar=1)
 
-**[Watch the final Lumo project video](https://youtu.be/TUtkYGcVBCk)**
+## Project overview
 
-## My role & contributions — Tiffany Chen
+**The challenge:** How might we support non-English-speaking mothers in understanding and participating in prenatal and postpartum healthcare conversations without diminishing the personal nature of clinical care?
 
-**My confirmed contributions: Storyboarding and video production.**
+Lumo was a **proposed**, tablet-supported translation and conversation-review experience. The team's research emphasized difficulties asking follow-up questions, involving third-party interpreters in sensitive conversations, and remembering important information afterward. The proposed concept included live translated transcripts, bookmarking, and consent-based retention.
 
-I contributed to communicating the team's Lumo concept through storyboard development and production of the final project video. This work focused on presenting the experience of language barriers in maternal healthcare and explaining the proposed interaction in a visual narrative.
+## My role and contributions
 
-The storyboards and video are collaborative deliverables; this description does not attribute the team's interviews, prototype design, or overall research findings solely to me.
+**I contributed to the project's storyboarding and video production.** I helped communicate the experience of language barriers through a visual narrative, moving from isolation and confusion to the brighter, more understandable interaction envisioned by Lumo.
 
-**Examples of the work:** [Storyboard presentation](Storyboards/Storyboard%21%21%21.pptx) · [Final team video](https://youtu.be/TUtkYGcVBCk)
+The storyboards and final video were collaborative deliverables. I do not claim sole authorship of the research, interface prototypes, or broader design decisions.
 
-## Storyboard evidence: communicating the patient experience
+## Design process
 
-![Visual reconstruction of the Lumo storyboard narrative: isolation, language barrier, then supported conversation and bookmarking](assets/storyboard-narrative.svg)
+1. **Understand the context — team research.** The team conducted exploratory interviews with mothers and consulted an OB-GYN to examine communication challenges in healthcare.
+2. **Explore alternatives — team ideation.** Concepts included a live progress screen, a translation/emotion communication application, and a service-based interpretation alternative.
+3. **Prototype and gather feedback — team iteration.** Feedback informed a concept combining translated conversation with accessible records of important information.
+4. **Tell the story — my contribution.** Storyboard development and video production communicated the problem and proposed experience through a coherent narrative.
 
-*Visual summary reconstructed from the team's original 2022 storyboard presentation (slides 2–12); this is not an original storyboard frame.*
+[Read the detailed team design-process summary](design-process.md)
 
-**My contribution — storyboarding and video production:** I worked on the storyboard and final video that communicated the patient experience through a narrative of darkness, confusion, and ultimately greater visibility. The storyboard materials use a recurring **“in the dark → into the light”** motif: scenes begin with a mother struggling to understand clinical conversations, then introduce Lumo's translated transcript and bookmarking features.
+## Visual evidence
 
-The visual narrative helped *communicate the proposed problem and solution*. It does **not** establish that patients using Lumo experienced improved health outcomes.
+### 01 · The language barrier
 
-**Original evidence:** [Storyboard slides](Storyboards/Storyboard%21%21%21.pptx) · [Storyboard notes](Storyboards/Storyboard%20Notes_.docx) · [Final team video](https://youtu.be/TUtkYGcVBCk)
+![Original storyboard opening scene](assets/01-opening-language-barrier.jpg)
 
-## The challenge
+*Original storyboard slide. An opening scene sets up the feeling of hearing a conversation without understanding it.*
 
-How might we reduce communication barriers for non-English-speaking mothers receiving prenatal and postpartum care in US hospitals, while supporting autonomy and preserving a personal relationship with clinicians?
+### 02 · Isolation and loss of voice
 
-This project began with the course prompt **“Design for Mothers.”**
+![Original storyboard with an isolated character](assets/02-isolation-storyboard.jpg)
 
-## Research and problem definition
+*Original storyboard slide. A small figure and dark surroundings express the emotional impact of being unable to participate in a conversation.*
 
-The team conducted exploratory interviews with mothers and spoke with an OB-GYN. Research highlighted:
-- Delays and interruptions associated with calling interpreters for follow-up questions
-- Discomfort with involving unfamiliar third parties in sensitive conversations
-- Difficulty remembering advice or asking everything during an appointment
-- The desire for direct, understandable conversation between a mother and clinician
+### 03 · From darkness to light
 
-The team articulated a need for more efficient and empathetic communication without losing the patient's voice.
+![Frames from the final team video showing the proposed narrative transition](assets/03-darkness-to-light-VIDEO-STILLS.jpg)
 
-## Exploring alternatives
+*Stills from the final team video, corresponding to the transition planned in storyboard Animation 5. These are **video frames**, not drawings from the text-only storyboard slide.*
 
-The process documentation describes three initial concepts:
-1. **Live progress screen:** Hospital-room display of care information
-2. **Emotion communication/translation application:** Transcribed conversation with a way to express feelings
-3. **Undergraduate pre-medical students as certified hospital translators:** A service-oriented alternative
+### 04 · Reviewing key information
 
-The team gathered concept feedback and combined useful elements of the live progress screen and translation application.
+![Frame from the final team video illustrating transcript bookmarking](assets/04-bookmarking-concept-VIDEO-STILL.jpg)
 
-## The proposed Lumo experience
+*Still from the final team video illustrating the proposed transcript-bookmarking concept in Animation 9. This is a concept demonstration, not a deployed product.*
 
-Lumo proposes a tablet interface used alongside earbuds for medical conversations:
-1. Mother and clinician select or use their languages
-2. Speech appears as live translated text on a tablet
-3. The patient can scroll through and bookmark information for later review
-4. A consent screen supports a decision about whether to save or discard a transcript
+**Storytelling rationale:** The recurring **“in the dark → into the light”** motif creates a visible emotional arc, while the final interaction frame shows the feature that is meant to help patients revisit information after a conversation.
 
-**Key design decision:** Move beyond generic live translation to help patients revisit important information afterward.
+[Original storyboard slides](Storyboards/Storyboard%21%21%21.pptx) · [Storyboard notes](Storyboards/Storyboard%20Notes_.docx) · [Final video](https://youtu.be/TUtkYGcVBCk)
 
+## Outcome and limitations
 
+The team communicated a proposed concept through storyboards, prototypes, and a final video. **Lumo was not clinically deployed or validated.** Translation accuracy, interpreter integration, consent, privacy, clinical safety, and accessibility require further study. The visual narrative illustrates the design intention, not measured improvements in healthcare outcomes.
 
-[**Read the curated design-process summary →**](design-process.md)
-
-## Evaluation and iteration
-
-The team showed early concepts to mothers and incorporated feedback into the final concept. Class questions also raised concerns about differences from Google Translate, possible loss of in-person empathy, and consent to retain recordings. These informed the presentation's discussion of bookmarking, autonomy, and privacy.
-
-## What this work demonstrates
-
-User research, stakeholder consideration, alternate concept generation, prototyping, feedback-driven iteration, and communication of design rationale.
-
-## Limitations
-
-**This was a proposed course prototype, not a medical product.** Further work would require study of translation accuracy, clinical safeguards, interpreter access, privacy, recording consent, and deployment conditions. Interviews and concept feedback should not be confused with a real-world clinical effectiveness study.
-
-## Project files — organized by stage
+## Project archive
 
 | Folder | Contents |
 | --- | --- |
-| [Recordings](Recordings/) | 20 voice recordings and audio files used in production |
-| [Interviews Conducted](Interviews%20Conducted/) | 15 interview, interview-preparation, and prototype-feedback documents |
+| [Recordings](Recordings/) | Audio and voiceover production files |
+| [Interviews Conducted](Interviews%20Conducted/) | Team interview and prototype-feedback documents |
 | [Prototypes](Prototypes/) | Three Prototypes and Prototype Story presentations |
-| [Storyboards](Storyboards/) | Storyboard presentation, scripts, and working notes |
+| [Storyboards](Storyboards/) | Storyboard slides, scripts, and notes |
 | [Research and Planning](Research%20and%20Planning/) | Process documentation and stakeholder assessment |
-| [Meetings and Planning](Meetings%20and%20Planning/) | Four team meeting notes |
-| [Presentations](presentations/) | Early territory/problem and idea presentation files; additional presentations linked below |
+| [Meetings and Planning](Meetings%20and%20Planning/) | Team meeting notes |
+| [Presentations](presentations/) | Early-stage presentation files |
 
-**Research privacy note:** Some original interview files identify participants. These are archived team materials, not anonymized public research reports. Review consent and redact identifying information before sharing them with external reviewers.
+Additional large presentations in the [original project repository](https://github.com/tchen3142/IEME4200FinalProject/tree/main/projects/lumo/presentations) remain available there.
 
-## Original storyboard and final-video evidence
+**Privacy and attribution:** These are team materials. Some archived interviews identify participants; do not treat them as anonymized or redistribute their contents without reviewing consent.
 
-The following are **original project visuals**, not AI-generated illustrations. The first two come from the team's storyboard presentation, while the final two are frames extracted from the team's finished [Lumo video](https://youtu.be/TUtkYGcVBCk).
-
-### 1. Opening scene — experiencing a language barrier
-
-![Original Lumo storyboard: opening scene](assets/01-opening-language-barrier.jpg)
-
-*Storyboard opening: the scene introduces the uncertainty of hearing a conversation without understanding it.*
-
-### 2. Isolation — conveying the emotional impact
-
-![Original Lumo storyboard: isolated character](assets/02-isolation-storyboard.jpg)
-
-*The storyboard uses a small isolated character and dark surroundings to communicate fear and loss of voice.*
-
-### 3. From darkness to light — the narrative transition
-
-![Frames from Lumo final video showing the transition toward a brighter healthcare interaction](assets/03-darkness-to-light-VIDEO-STILLS.jpg)
-
-*Frames from the completed team video illustrate the emotional transition proposed in storyboard Animation 5. These are video stills, not illustrations embedded in the original text-only slide.*
-
-### 4. Bookmarking — communicating the proposed interaction
-
-![Frame from Lumo final video showing the transcript bookmarking concept](assets/04-bookmarking-concept-VIDEO-STILL.jpg)
-
-*Frame from the completed team video illustrating the proposed transcript-bookmarking feature described in storyboard Animation 9. This is concept footage, not evidence of a deployed medical system.*
-
-**My contribution:** Storyboarding and video production. These images show the team's collaborative deliverables and the narrative communication work I contributed to; they do not imply sole authorship of the prototype design or clinical validation.
-
-**Original material:** [Storyboard presentation](Storyboards/Storyboard%21%21%21.pptx) · [Storyboard notes](Storyboards/Storyboard%20Notes_.docx) · [Final team video](https://youtu.be/TUtkYGcVBCk)
-
-## Presentation archive
-
-Two early-stage class presentations are in [presentations/](presentations/), two prototype presentations are in [Prototypes/](Prototypes/), and three larger presentations remain linked to the original repository. Together they document problem framing, idea exploration, evaluation, and prototyping:
-
-- [Territory and Problem Presentation](presentations/S2T4%20Territory%20and%20Problem%20Presentation.pptx)
-- [Ideas & Competition (original repository)](https://github.com/tchen3142/IEME4200FinalProject/blob/main/projects/lumo/presentations/S2T4%20Ideas%20%26%20Competition.pptx)
-- [Copy of Ideas & Competition](presentations/Copy%20of%20S2T4%20Ideas%20%26%20Competition.pptx)
-- [Evaluation & Choice (original repository)](https://github.com/tchen3142/IEME4200FinalProject/blob/main/projects/lumo/presentations/S2T4_%20Evaluation%20%26%20Choice_.pptx)
-- [Evaluation and Choice — Iteration 2 (original repository)](https://github.com/tchen3142/IEME4200FinalProject/blob/main/projects/lumo/presentations/Evaluation%20and%20Choice%20Iteration%202_.pptx)
-- [Three Prototypes](Prototypes/Three%20Prototypes.pptx)
-- [Prototype Story](Prototypes/Prototype%20Story.pptx)
-
-The [final project video is available on YouTube](https://youtu.be/TUtkYGcVBCk). Process documentation, storyboards, interview records, and audio production recordings are organized in the folders below.
-
-## Supporting source documents in this portfolio
-
-- [Original team Process Documentation](Research%20and%20Planning/Process%20Documentation.pptx)
-- [Storyboard presentation](Storyboards/Storyboard%21%21%21.pptx)
-- [Stakeholder Assessment for Potential Solutions](Research%20and%20Planning/Stakeholder%20Assessment%20for%20Potential%20Solutions.xlsx)
-- [Final Lumo video](https://youtu.be/TUtkYGcVBCk)
-
-These artifacts are group work. Individual research interviews are not featured as portfolio evidence without privacy review.
-
-## Source material
-
-The original archive includes process documentation, storyboards, stakeholder assessment, prototype iterations, interviews, and audio recordings, organized into the folders above. The final video is linked above. The separate class-wide question document includes other teams' content and is not presented as Lumo-only research.
-
-## Credit
-
-This was a five-person team project. Tiffany Chen's confirmed contributions were **storyboarding and video production**. Research, concept development, and prototyping are described as team activities unless individually attributed.
+**Team credit:** Maya Joseph, Brygitte De La Cruz, Tiffany Chen, Katherine Ju, Yicheng (Rico) Li. Tiffany's confirmed contributions: **storyboarding and video production**.
